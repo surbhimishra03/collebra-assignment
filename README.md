@@ -44,10 +44,6 @@ Run the application as spring boot -
 - Database URL - http://localhost:8080/h2-console/ . 
 - User for H2 DB is "collebra" and password is "collebra"
 
-# Queries used Frequently in application:
-
-select * from TBL_ENROLLEE ;
-select * from TBL_DEPENDENT_ENROLLEE 
 
 
 
